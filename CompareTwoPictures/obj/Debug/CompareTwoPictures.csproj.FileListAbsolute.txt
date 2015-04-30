@@ -1,0 +1,16 @@
+c:\users\alexander\documents\visual studio 2013\Projects\CompareTwoPictures\CompareTwoPictures\bin\Debug\CompareTwoPictures.exe.config
+c:\users\alexander\documents\visual studio 2013\Projects\CompareTwoPictures\CompareTwoPictures\obj\Debug\CompareTwoPictures.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CompareTwoPictures\CompareTwoPictures\obj\Debug\MainWindow.baml
+c:\users\alexander\documents\visual studio 2013\Projects\CompareTwoPictures\CompareTwoPictures\obj\Debug\MainWindow.g.cs
+c:\users\alexander\documents\visual studio 2013\Projects\CompareTwoPictures\CompareTwoPictures\obj\Debug\App.g.cs
+c:\users\alexander\documents\visual studio 2013\Projects\CompareTwoPictures\CompareTwoPictures\obj\Debug\CompareTwoPictures_MarkupCompile.cache
+c:\users\alexander\documents\visual studio 2013\Projects\CompareTwoPictures\CompareTwoPictures\obj\Debug\CompareTwoPictures.g.resources
+c:\users\alexander\documents\visual studio 2013\Projects\CompareTwoPictures\CompareTwoPictures\obj\Debug\CompareTwoPictures.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2013\Projects\CompareTwoPictures\CompareTwoPictures\obj\Debug\CompareTwoPictures.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2013\Projects\CompareTwoPictures\CompareTwoPictures\bin\Debug\CompareTwoPictures.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CompareTwoPictures\CompareTwoPictures\bin\Debug\CompareTwoPictures.pdb
+c:\users\alexander\documents\visual studio 2013\Projects\CompareTwoPictures\CompareTwoPictures\obj\Debug\CompareTwoPictures.exe
+c:\users\alexander\documents\visual studio 2013\Projects\CompareTwoPictures\CompareTwoPictures\obj\Debug\CompareTwoPictures.pdb
+C:\Users\Alexander\Documents\Visual Studio 2013\CompareTwoPictures\CompareTwoPictures\bin\Debug\CompareTwoPictures.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2013\CompareTwoPictures\CompareTwoPictures\obj\Debug\CompareTwoPictures.exe
+C:\Users\Alexander\Documents\Visual Studio 2013\CompareTwoPictures\CompareTwoPictures\obj\Debug\CompareTwoPictures.pdb
