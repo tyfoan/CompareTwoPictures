@@ -1,1 +1,1 @@
-# CompareTwoPictures
+# Dont compare two asolutely different pictures. It makes program stucked.
